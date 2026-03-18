@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: 26e14981a315a724bb025ec66da29182
+  - enabled: 0
+    path: Assets/Scenes/2_map_beach.unity
+    guid: 53e40f61adb79f04c9843197f680056c
+  - enabled: 0
+    path: Assets/Scenes/3_map_beach 1.unity
+    guid: 4cf43f576ea95a04b93a9ed55cb912b8
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 9bf6439b04e30f042a2094f25064ab1f
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: 94d5f25e49a15ed4d834498a984aa832
+  - enabled: 1
+    path: Assets/Scenes/LevelChoice.unity
+    guid: 9d31e3ddf036edc49996ac4709998219
+  - enabled: 0
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 27144dbd38585944894a85b12dfa7116
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: abd321b3ce8054542b6eac4925130ca4,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 389212eab6e3c054fa2b822949cc5b66, type: 2}

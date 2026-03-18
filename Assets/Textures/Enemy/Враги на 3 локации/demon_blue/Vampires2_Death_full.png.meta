@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 2616260d88c23924d9c613d80ed64c82
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vampires2_Death_full_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 209
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25ec222ae8c1a64cae2872d96e62606
+      internalID: 1818320416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Death_full_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 209
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e92a5b3c7d17104f8c2ec9cd2c96457
+      internalID: -1184711626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Death_full_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 209
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e984d3cd8854a740a090a65eb244239
+      internalID: -717232442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Death_full_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 209
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d66dee0c6a28458f5298d5d08c190
+      internalID: 571690340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Death_full_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 209
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce6758ee380c547afc57a30c7563dd
+      internalID: -1959811359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Death_full_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 209
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea19eb3749f1042bc50066590c666b
+      internalID: 924822344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Death_full_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 209
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cb4f43b0d2b7c499a990bd1dc69e03
+      internalID: -538460673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Death_full_0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 205
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d95bc456b55345aac26874d17d375
+      internalID: 1397203636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Death_full_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 201
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e934b216542dfa6438b6ffed99560061
+      internalID: -191562611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires2_Death_full_2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 198
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a5c025afc4dd54e8fe30baffa57293
+      internalID: -591003238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Vampires2_Death_full_0: 1397203636
+      Vampires2_Death_full_1: -191562611
+      Vampires2_Death_full_10: 571690340
+      Vampires2_Death_full_100: 1445066947
+      Vampires2_Death_full_101: -1703011869
+      Vampires2_Death_full_102: -731654277
+      Vampires2_Death_full_103: -1349542857
+      Vampires2_Death_full_104: -1334554562
+      Vampires2_Death_full_105: -1380527368
+      Vampires2_Death_full_106: -1552636941
+      Vampires2_Death_full_107: 1639347416
+      Vampires2_Death_full_108: -1852786039
+      Vampires2_Death_full_109: -1261198801
+      Vampires2_Death_full_11: -1959811359
+      Vampires2_Death_full_110: -1781665170
+      Vampires2_Death_full_111: 1572956955
+      Vampires2_Death_full_112: -1052082343
+      Vampires2_Death_full_113: -787674671
+      Vampires2_Death_full_114: -435591694
+      Vampires2_Death_full_115: 2102113563
+      Vampires2_Death_full_116: -537777571
+      Vampires2_Death_full_117: -1315852472
+      Vampires2_Death_full_118: -1263096280
+      Vampires2_Death_full_119: 472325175
+      Vampires2_Death_full_12: 924822344
+      Vampires2_Death_full_120: 1733893869
+      Vampires2_Death_full_121: 1093528757
+      Vampires2_Death_full_122: -960784923
+      Vampires2_Death_full_123: 692142080
+      Vampires2_Death_full_124: -1966066774
+      Vampires2_Death_full_125: 961482098
+      Vampires2_Death_full_126: -1017457203
+      Vampires2_Death_full_127: 962958752
+      Vampires2_Death_full_128: -64336966
+      Vampires2_Death_full_129: -1797344500
+      Vampires2_Death_full_13: -538460673
+      Vampires2_Death_full_130: 646863792
+      Vampires2_Death_full_131: -510182033
+      Vampires2_Death_full_132: -1254177171
+      Vampires2_Death_full_133: 567117396
+      Vampires2_Death_full_134: -1653676115
+      Vampires2_Death_full_135: 1695858597
+      Vampires2_Death_full_136: 1989932203
+      Vampires2_Death_full_137: 1373184296
+      Vampires2_Death_full_138: 442508473
+      Vampires2_Death_full_139: -1906126629
+      Vampires2_Death_full_14: -1686751474
+      Vampires2_Death_full_140: -1838611217
+      Vampires2_Death_full_141: 755600541
+      Vampires2_Death_full_142: -422068112
+      Vampires2_Death_full_143: -496331852
+      Vampires2_Death_full_144: 1593594449
+      Vampires2_Death_full_145: -992552419
+      Vampires2_Death_full_146: -209473646
+      Vampires2_Death_full_147: -175749236
+      Vampires2_Death_full_148: 1907749707
+      Vampires2_Death_full_149: -165827853
+      Vampires2_Death_full_15: -589997347
+      Vampires2_Death_full_150: -983850347
+      Vampires2_Death_full_151: 2050629468
+      Vampires2_Death_full_152: -1992107967
+      Vampires2_Death_full_153: 1131926246
+      Vampires2_Death_full_154: 481958078
+      Vampires2_Death_full_155: 1087351780
+      Vampires2_Death_full_156: 914120461
+      Vampires2_Death_full_157: -1203752332
+      Vampires2_Death_full_158: -2091016359
+      Vampires2_Death_full_159: 854236439
+      Vampires2_Death_full_16: 448953830
+      Vampires2_Death_full_160: -690236537
+      Vampires2_Death_full_161: 1070729276
+      Vampires2_Death_full_162: -2013643770
+      Vampires2_Death_full_163: -2082540109
+      Vampires2_Death_full_164: -150495047
+      Vampires2_Death_full_165: -2039500410
+      Vampires2_Death_full_166: -1307856219
+      Vampires2_Death_full_167: 1302196164
+      Vampires2_Death_full_17: 232244426
+      Vampires2_Death_full_18: -1303016107
+      Vampires2_Death_full_19: -2114525542
+      Vampires2_Death_full_2: -591003238
+      Vampires2_Death_full_20: 378757843
+      Vampires2_Death_full_21: 669054838
+      Vampires2_Death_full_22: 1485022779
+      Vampires2_Death_full_23: 2089404132
+      Vampires2_Death_full_24: 1358829137
+      Vampires2_Death_full_25: -104876416
+      Vampires2_Death_full_26: -1332442176
+      Vampires2_Death_full_27: 1620499431
+      Vampires2_Death_full_28: -1696023700
+      Vampires2_Death_full_29: 822437302
+      Vampires2_Death_full_3: 2077456783
+      Vampires2_Death_full_30: -1466447339
+      Vampires2_Death_full_31: -137358703
+      Vampires2_Death_full_32: 367933071
+      Vampires2_Death_full_33: -1827878525
+      Vampires2_Death_full_34: 1947815884
+      Vampires2_Death_full_35: -1043790287
+      Vampires2_Death_full_36: 315609061
+      Vampires2_Death_full_37: 1929595218
+      Vampires2_Death_full_38: -1650773474
+      Vampires2_Death_full_39: 1963414043
+      Vampires2_Death_full_4: 2057989287
+      Vampires2_Death_full_40: -481851146
+      Vampires2_Death_full_41: -1557765280
+      Vampires2_Death_full_42: 532692357
+      Vampires2_Death_full_43: -952484070
+      Vampires2_Death_full_44: 281060720
+      Vampires2_Death_full_45: -2071629638
+      Vampires2_Death_full_46: 31091373
+      Vampires2_Death_full_47: 1824791436
+      Vampires2_Death_full_48: 655575680
+      Vampires2_Death_full_49: -1239494906
+      Vampires2_Death_full_5: 776232832
+      Vampires2_Death_full_50: 1165933008
+      Vampires2_Death_full_51: 1887334188
+      Vampires2_Death_full_52: -1953139011
+      Vampires2_Death_full_53: -1246550558
+      Vampires2_Death_full_54: 1577956264
+      Vampires2_Death_full_55: 1078040310
+      Vampires2_Death_full_56: 894942315
+      Vampires2_Death_full_57: -781516279
+      Vampires2_Death_full_58: -1480580675
+      Vampires2_Death_full_59: 2011444207
+      Vampires2_Death_full_6: 1879369654
+      Vampires2_Death_full_60: -1887548855
+      Vampires2_Death_full_61: 1600412850
+      Vampires2_Death_full_62: 1688631270
+      Vampires2_Death_full_63: 251842043
+      Vampires2_Death_full_64: -1484682798
+      Vampires2_Death_full_65: 1831165534
+      Vampires2_Death_full_66: -396423869
+      Vampires2_Death_full_67: 896055615
+      Vampires2_Death_full_68: -110577551
+      Vampires2_Death_full_69: -943598370
+      Vampires2_Death_full_7: 1818320416
+      Vampires2_Death_full_70: 1683702540
+      Vampires2_Death_full_71: 1440669491
+      Vampires2_Death_full_72: -1238854932
+      Vampires2_Death_full_73: 358964487
+      Vampires2_Death_full_74: 1912387848
+      Vampires2_Death_full_75: -1566927046
+      Vampires2_Death_full_76: -1390952186
+      Vampires2_Death_full_77: 977708138
+      Vampires2_Death_full_78: 928502434
+      Vampires2_Death_full_79: 1489066029
+      Vampires2_Death_full_8: -1184711626
+      Vampires2_Death_full_80: -644962196
+      Vampires2_Death_full_81: 2109530034
+      Vampires2_Death_full_82: -244564430
+      Vampires2_Death_full_83: -1035289535
+      Vampires2_Death_full_84: 446592973
+      Vampires2_Death_full_85: -249969490
+      Vampires2_Death_full_86: -1737386057
+      Vampires2_Death_full_87: -1840189550
+      Vampires2_Death_full_88: -2140074324
+      Vampires2_Death_full_89: -868995543
+      Vampires2_Death_full_9: -717232442
+      Vampires2_Death_full_90: 772106081
+      Vampires2_Death_full_91: 1810743409
+      Vampires2_Death_full_92: -1400700100
+      Vampires2_Death_full_93: -205182683
+      Vampires2_Death_full_94: -73527805
+      Vampires2_Death_full_95: -779886158
+      Vampires2_Death_full_96: 1548608351
+      Vampires2_Death_full_97: -1426049579
+      Vampires2_Death_full_98: 816884848
+      Vampires2_Death_full_99: -323773185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: bf79e055eaf914948899e331234f84f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fakel2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0722723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0f6506e8bcd37459d3aac199131f8d
+      internalID: -328617060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 25
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5095761, y: 0.053120296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674f6567239d5034fa55498f26bc6df9
+      internalID: -1470677579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 25
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.053120296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24cd3684c1d7c74ebc27faaa1002f08
+      internalID: 598022705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.49042463, y: 0.06588825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d310e2aedc63340b267cf7cdc7c2d2
+      internalID: 1416338709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f658ae585c6fd8f40957941dc0c7771f
+      internalID: 260727338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 25
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4904251, y: 0.06588825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf9e56ff12136d49a1d312d09624938
+      internalID: 1471342977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 25
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.06588825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990181591eddfb4bb45aa09b08a3e5c
+      internalID: -88812734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 25
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.50957775, y: 0.0722723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396123ad2df6114794e06d2eb7ca76c
+      internalID: 225216167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 25
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4904251, y: 0.07865635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a70ed023da64a74da2d7fa9afc30b0a
+      internalID: 129409563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fcf8ac2bb5ce74d81cc86db3cf693b
+      internalID: -845231064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2aec9cb13b1de4b9904cd7662a20a6
+      internalID: 1822475439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79858fe89ba5c545ac3641480656804
+      internalID: 1983096303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965a9b141c2c8fe4486df06682b59c40
+      internalID: 139322280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.47053578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c81d0096be5364fb53ed03afb7c7aa
+      internalID: -551303908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2837eabe751138e4da81f905ff44af3e
+      internalID: -1715509365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf2d93827409341b717f0b9827eda7
+      internalID: -2131449864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35548da5d52ca6d4486d24a5418fc95e
+      internalID: -1717501638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fakel2_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90a5e06053b5b54091a23490d2cbad4
+      internalID: 1483879506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fakel2_0: -328617060
+      fakel2_1: -1470677579
+      fakel2_10: 1822475439
+      fakel2_11: 1983096303
+      fakel2_12: 139322280
+      fakel2_13: -551303908
+      fakel2_14: -1715509365
+      fakel2_15: -2131449864
+      fakel2_16: -1717501638
+      fakel2_17: 1483879506
+      fakel2_2: 598022705
+      fakel2_3: 1416338709
+      fakel2_4: 260727338
+      fakel2_5: 1471342977
+      fakel2_6: -88812734
+      fakel2_7: 225216167
+      fakel2_8: 129409563
+      fakel2_9: -845231064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
